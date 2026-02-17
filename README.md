@@ -1,3 +1,5 @@
+[NOTA: Para acceder a la app pide contraseña, la password es 0305.]
+
 # ⚡ Master Utilities
 
 🧰 **Master Utilities** es una aplicación todo-en-uno pensada para gente que quiere tener **herramientas esenciales en un solo lugar**.
